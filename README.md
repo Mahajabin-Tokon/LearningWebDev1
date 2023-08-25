@@ -1,4 +1,4 @@
-# LearningWebDev1
+# LearningWebDev_Project1
 Learning HTML by building a cat photo app
 
 Learned about:
