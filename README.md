@@ -10,3 +10,4 @@ Learned about:
   - meta tag
   - labels
   - input tag
+  - img tag
